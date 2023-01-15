@@ -1,1 +1,2 @@
 # SocioPedia
+A MERN application
